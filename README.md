@@ -3,4 +3,4 @@
 2， 地址补全 ./addrutil/util.py
 
 
-author: 王全军 232804990@qq.com tidal.melon@gmail.com
+author: 王全军 232804990@qq.com
